@@ -227,17 +227,17 @@ a:hover {
 
 
 <h1 id="圣诞树"><a href="#圣诞树" class="headerlink" title="圣诞树"></a>圣诞树</h1><h2 id="金色圣诞树-1"><a href="#金色圣诞树-1" class="headerlink" title="金色圣诞树 1"></a>金色圣诞树 1</h2><video width="1000" height="1000" controls>
-  <source src="_posts/Christmas/ChristmasTree1.mp4" type="video/mp4">
+  <source src="Christmas/ChristmasTree1.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
 <h2 id="金色圣诞树-2"><a href="#金色圣诞树-2" class="headerlink" title="金色圣诞树 2"></a>金色圣诞树 2</h2><video width="1000" height="1000" controls>
-  <source src="_posts/Christmas/ChristmasTree2.mp4" type="video/mp4">
+  <source src="Christmas/ChristmasTree2.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
 <h2 id="绿色圣诞树"><a href="#绿色圣诞树" class="headerlink" title="绿色圣诞树"></a>绿色圣诞树</h2><video width="1000" height="1000" controls>
-  <source src="_posts/Christmas/ChristmasTree3.mp4" type="video/mp4">
+  <source src="Christmas/ChristmasTree3.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
