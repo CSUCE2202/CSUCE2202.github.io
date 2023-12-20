@@ -196,10 +196,7 @@ a:hover {
   <entry>
     <title>Christmas</title>
     <url>/2023/12/20/Christmas/</url>
-    <content><![CDATA[<!DOCTYPE html>
-<html>
-<head>
-  <title>Christmas Videos</title>
+    <content><![CDATA[<title>Christmas Videos</title>
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -227,38 +224,23 @@ a:hover {
       border-radius: 5px;
     }
   </style>
-</head>
-<body>
-  <h1>Merry Christmas!</h1>
-  
-  <div class="videos">
-    <div class="video-container">
-      <h2>Video 1</h2>
-      <video controls>
-        <source src="_posts/Christmas/ChristmasTree1.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
-    </div>
-  
-<pre><code>&lt;div class=&quot;video-container&quot;&gt;
-  &lt;h2&gt;Video 2&lt;/h2&gt;
-  &lt;video controls&gt;
-    &lt;source src=&quot;_posts/Christmas/ChristmasTree2.mp4&quot; type=&quot;video/mp4&quot;&gt;
-    Your browser does not support the video tag.
-  &lt;/video&gt;
-&lt;/div&gt;
 
-&lt;div class=&quot;video-container&quot;&gt;
-  &lt;h2&gt;Video 3&lt;/h2&gt;
-  &lt;video controls&gt;
-    &lt;source src=&quot;_posts/Christmas/ChristmasTree3.mp4&quot; type=&quot;video/mp4&quot;&gt;
-    Your browser does not support the video tag.
-  &lt;/video&gt;
-&lt;/div&gt;
-</code></pre>
-  </div>
-</body>
-</html>
+
+<h1 id="圣诞树"><a href="#圣诞树" class="headerlink" title="圣诞树"></a>圣诞树</h1><h2 id="金色圣诞树-1"><a href="#金色圣诞树-1" class="headerlink" title="金色圣诞树 1"></a>金色圣诞树 1</h2><video width="1000" height="1000" controls>
+  <source src="_posts/Christmas/ChristmasTree1.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+<h2 id="金色圣诞树-2"><a href="#金色圣诞树-2" class="headerlink" title="金色圣诞树 2"></a>金色圣诞树 2</h2><video width="1000" height="1000" controls>
+  <source src="_posts/Christmas/ChristmasTree2.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+<h2 id="绿色圣诞树"><a href="#绿色圣诞树" class="headerlink" title="绿色圣诞树"></a>绿色圣诞树</h2><video width="1000" height="1000" controls>
+  <source src="_posts/Christmas/ChristmasTree3.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ]]></content>
   </entry>
 </search>
