@@ -1,55 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Christmas</title>
-    <url>/2023/12/20/Christmas/</url>
-    <content><![CDATA[<title>Christmas Videos</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 0;
-      padding: 20px;
-      background-color: #f2f2f2;
-    }
-    h1 {
-      text-align: center;
-      color: #c0392b;
-    }
-    .videos {
-      display: grid;
-      grid-template-columns: repeat(3, 1fr);
-      gap: 20px;
-    }
-    .video-container {
-      background-color: #fff;
-      padding: 10px;
-      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-      border-radius: 5px;
-    }
-    video {
-      width: 100%;
-      border-radius: 5px;
-    }
-  </style>
-
-
-<h3 id="Merry-Christmas"><a href="#Merry-Christmas" class="headerlink" title="Merry Christmas"></a>Merry Christmas</h3><h2 id="金色圣诞树-1"><a href="#金色圣诞树-1" class="headerlink" title="金色圣诞树 1"></a>金色圣诞树 1</h2><div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;">
-<iframe src="//player.bilibili.com/player.html?aid=367564816&bvid=BV1d94y1c72f&cid=1374442811&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"> </iframe>
-</div>
-
-<h2 id="金色圣诞树-2"><a href="#金色圣诞树-2" class="headerlink" title="金色圣诞树 2"></a>金色圣诞树 2</h2><div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;">
-<iframe src="//player.bilibili.com/player.html?aid=282512717&bvid=BV19c411y7QC&cid=1374442821&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"> </iframe>
-</div>
-
-<h2 id="绿色圣诞树"><a href="#绿色圣诞树" class="headerlink" title="绿色圣诞树"></a>绿色圣诞树</h2><div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;">
-<iframe src="//player.bilibili.com/player.html?aid=537570307&bvid=BV1ci4y1Y7u4&cid=1374442825&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"> </iframe>
-</div>
-]]></content>
-      <categories>
-        <category>圣诞树</category>
-      </categories>
-  </entry>
-  <entry>
     <title>公共课资料分享</title>
     <url>/2023/12/18/%E5%85%AC%E5%85%B1%E8%AF%BE%E8%B5%84%E6%96%99%E5%88%86%E4%BA%AB/</url>
     <content><![CDATA[<style>
@@ -221,7 +172,8 @@ a:hover {
 }
 </style>
 
-<h2 id="欢迎来到我的英语笔记页面！"><a href="#欢迎来到我的英语笔记页面！" class="headerlink" title="欢迎来到我的英语笔记页面！"></a>欢迎来到我的英语笔记页面！</h2><p>在这里我将分享我的英语学习笔记。</p>
+<h2 id="欢迎来到我的英语笔记页面！"><a href="#欢迎来到我的英语笔记页面！" class="headerlink" title="欢迎来到我的英语笔记页面！"></a>欢迎来到我的英语笔记页面！</h2><p>我在10月参加了我人生中的第一次雅思考试。下面是我的雅思分数和我的英语学习笔记。</p>
+<p><img src="/.com//IELTS.png" alt="雅思成绩"></p>
 <h3 id="文件下载链接"><a href="#文件下载链接" class="headerlink" title="文件下载链接"></a>文件下载链接</h3><div class="pdf-links">
   <a href="https://pan.baidu.com/s/1C-GXMvluWTc_iEdyepyMVg?pwd=0diu">
     <span class="icon">✍️</span> 雅思学习资料 - 包括写作替换技巧、雅思写作教程、口语资料和剑桥雅思真题。
