@@ -1,6 +1,73 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Christmas</title>
+    <url>/2023/12/20/Christmas/</url>
+    <content><![CDATA[<p>&lt;!DOCTYPE html&gt;</p>
+<html>
+<head>
+  <title>Christmas Videos</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 20px;
+      background-color: #f2f2f2;
+    }
+    h1 {
+      text-align: center;
+      color: #c0392b;
+    }
+    .videos {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 20px;
+    }
+    .video-container {
+      background-color: #fff;
+      padding: 10px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      border-radius: 5px;
+    }
+    video {
+      width: 100%;
+      border-radius: 5px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Merry Christmas!</h1>
+
+  <div class="videos">
+    <div class="video-container">
+      <h2>Video 1</h2>
+      <video controls>
+        <source src="path/to/video1.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </div>
+
+    <div class="video-container">
+      <h2>Video 2</h2>
+      <video controls>
+        <source src="path/to/video2.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </div>
+
+    <div class="video-container">
+      <h2>Video 3</h2>
+      <video controls>
+        <source src="path/to/video3.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </div>
+  </div>
+</body>
+</html>
+]]></content>
+  </entry>
+  <entry>
     <title>LaTeX 学习笔记</title>
     <url>/2023/12/27/Latex%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</url>
     <content><![CDATA[<html>
@@ -187,7 +254,11 @@ Hello, World!
 \renewcommand{\footrulewidth}{0.4pt}
 </pre>
 
-<p>这些是 LaTeX 学习的一些基础概念和技巧，让你能够开始创建高质量的技术和科学文档。随着你的学习深入，你将能够掌握更多高级功能和排版技巧。</p>
+<p>下面是一个使用Latex排版得出的文档示例，并附带源文件。</p>
+
+<iframe src="/pdf/Capmcm2302354.pdf" style="width:100%; height:1000px;" frameborder="0"></iframe>
+
+<a href="/downloads/Capmcm2302354.zip" download>Download Capmcm2302354.zip</a>
 
 </body>
 </html>
