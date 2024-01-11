@@ -58,7 +58,7 @@
 \end{align}
 
 \section{Chapter 2}
-
+\binom{}{} 
 \begin{align}
     F(x)&=P\{X\leqslant x\}, (-\infty <x< +\infty)\\
     \lim_{x \to -\infty} F(x)&=1 \\
@@ -68,8 +68,8 @@
     F(x)&=\int_{-\infty}^{x} f(t) \,dt \\
     f(x) &= \frac{1}{2} \times e^{-\left\lvert x \right\rvert }\\
     f(x) &= \frac{1}{b-a}, \quad (a<x<b) \quad X\sim U(a,b)\\
-    f(x) &= \frac{1}{\theta} \times e^{-\frac{x}{\theta}} \quad X \sim e(\theta)\\
-    f(x) &= \frac{1}{\sqrt{2\pi}\sigma} \times e^{-\frac{(x-\mu)^2}{2\sigma^2}} \quad X\sim N(\mu,\lambda^2)\\
+    f(x) &= \lambda \times e^{x\lambda} \quad X \sim E(\lambda)\\
+    f(x) &= \frac{1}{\sqrt{2\pi}\sigma} \times e^{-\frac{(x-\mu)^2}{2\sigma^2}} \quad X\sim N(\mu,\sigma^2)\\
     F_Y(y) &= P\{Y\leqslant y\}= P\{g(x)\leqslant y\} = \int_{g(x)\leqslant y} f_X(t) \, dt\\
     f_Y(y) &= \frac{dF_Y(y)}{dy} \\
     f_Y(y) &= f_X[h(y)] \times \left\lvert h'(y) \right\rvert 
@@ -127,7 +127,7 @@
       Binomial distribution & $np$ \\
       Poisson distribution & $\lambda$ \\
       Uniform distribution & $\frac{a+b}{2}$ \\
-      Exponential distribution & $\theta$ \\
+      Exponential distribution & $\frac{1}{\lambda}$ \\
       normal distribution & $\mu$ \\
       \bottomrule
     \end{tabular}
@@ -145,7 +145,7 @@
       Binomial distribution & $np(1-p)$ \\
       Poisson distribution & $\lambda$ \\
       Uniform distribution & $\frac{(b-a)^2}{12}$ \\
-      Exponential distribution & $\theta^2$ \\
+      Exponential distribution & $\frac{1}{\lambda^2}$ \\
       Normal distribution & $\sigma^2$ \\
       \bottomrule
     \end{tabular}
@@ -167,7 +167,7 @@
 \begin{align}
     D(X\pm C) &= D(X) \\
     D(CX) &= C^2D(X)\\
-    Cov(X,Y)&=E([X-E(X)][Y-E(Y)]) \\
+    Cov(X,Y)&=E(XY)-E(X)\times E(Y) \\
     Cov(X,Y) &= Cov(Y,X) \\
     Cov(aX,bY) &= abCov(X,Y) \\
     Cov(X_1+X_2,Y) &= Cov(X_1,Y) + Cov(X_2,Y) \\
